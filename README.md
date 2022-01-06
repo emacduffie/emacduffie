@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emacduffie
 - 👀 I’m interested in Business Intelligence, Data Mining and Machine Learning.  
 - 🌱 I’m currently learning SQL, Python and R
-- 💞️ I’m looking to collaborate on Machine Learning and Python
+- 💞️ I’m looking to collaborate on Machine Learning, Data Science and Python
 - 📫 How to reach me emacduffie@outlook.com
 
 <!---
